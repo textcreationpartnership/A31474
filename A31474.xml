@@ -1,0 +1,689 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Ceremonies, form of prayer, and services used in Westminster-Abby at the coronation of King James the First and Queen Ann, his consort performed by Dr. Whitgift ... ; with an account of the procession from the palace to the Abby ... : with the coronation of King Charles the First in Scotland.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 76 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A31474</idno>
+            <idno type="STC">Wing C1676</idno>
+            <idno type="STC">ESTC R8357</idno>
+            <idno type="EEBO-CITATION">13105896</idno>
+            <idno type="OCLC">ocm 13105896</idno>
+            <idno type="VID">97508</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A31474)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97508)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 410:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Ceremonies, form of prayer, and services used in Westminster-Abby at the coronation of King James the First and Queen Ann, his consort performed by Dr. Whitgift ... ; with an account of the procession from the palace to the Abby ... : with the coronation of King Charles the First in Scotland.</title>
+               </titleStmt>
+               <extent>20 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed, and are to be sold by Randal Taylor ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Never before published"</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>James --  I, --  King of England, 1566-1625 --  Coronation.</term>
+               <term>Anne, --  Queen, consort of James I, King of England, 1574-1619 --  Coronation.</term>
+               <term>Charles --  I, --  King of England, 1600-1649 --  Coronation.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:97508:1"/>
+            <pb facs="tcp:97508:1" rendition="simple:additions"/>
+            <p>THE CEREMONIES, <hi rend="blackletterType">Form of Prayer,</hi> AND SERVICES USED IN Weſtminſter-ABBY AT THE CORONATION of King JAMES the Firſt and Queen ANN his Conſort. Performed by Dr. <hi>Whitgift,</hi> Arch-Biſhop of <hi>Canterbury,</hi> &amp;c.</p>
+            <p>
+               <hi>WITH</hi> An Account of the PROCESSION from the PALACE to the ABBY.</p>
+            <list>
+               <item>Aſcending the Throne.</item>
+               <item>Interrogation of the People.</item>
+               <item>Deſcending to the Altar.</item>
+               <item>The Hymn, <hi>Veni Creator.</hi>
+               </item>
+               <item>The Litany.</item>
+               <item>The Anointing of the King.</item>
+               <item>The Inrobing of the King.</item>
+               <item>Bleſſing the King.</item>
+               <item>Aſcending the Throne.</item>
+               <item>Enthroning of the King.</item>
+               <item>Homage by the Peers.</item>
+               <item>Ceremonies touching the Support of the Crown.</item>
+               <item>The Holy Communion.</item>
+               <item>Deſcending to the Offertory.</item>
+               <item>Kings Speech to the People.</item>
+               <item>Aſcending the Throne.</item>
+               <item>End of the Communion.</item>
+               <item>The Offertory.</item>
+               <item>The Sermon.</item>
+               <item>The Kings Oath.</item>
+               <item>The Surplice, <hi>&amp;c.</hi>
+               </item>
+               <item>The Cloſe Pall.</item>
+               <item>The Sword.</item>
+               <item>The Armil.</item>
+               <item>The Crown.</item>
+               <item>The Ring.</item>
+               <item>The Offering of the Sword.</item>
+               <item>The Scepter.</item>
+               <item>The Rod.</item>
+               <item>Aſcending the Altar of St. <hi>Edward</hi> the Confeſſor.</item>
+               <item>The Crown and Robes of St. <hi>Edward</hi> the Confeſſor put off.</item>
+               <item>The King in his Robes goes back from the Abby to the Palace to Dinner.</item>
+            </list>
+            <p>With the Coronation of King <hi>CHARLES</hi> the Firſt in <hi>Scotland.</hi>
+            </p>
+            <p>
+               <hi rend="blackletterType">Never before Publiſhed.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed, and are to be Sold by <hi>Randal Taylor</hi> near <hi>Stationers Hall.</hi> 1685.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <div type="part">
+               <pb facs="tcp:97508:2"/>
+               <pb n="3" facs="tcp:97508:2"/>
+               <head>The Ceremonies, Form of Prayer, and Services uſed in <hi>Weſtminſter-Abby</hi> at the Coronation of King <hi>James</hi> the Firſt and Queen <hi>Ann</hi> his Conſort, <hi>July</hi> 25th. <hi>Anno</hi> 1603.</head>
+               <p n="1">1. THE Perſon that is to Anoint and Crown the King, is the Lord Arch-Biſhop of <hi>Canterbury.</hi>
+               </p>
+               <p n="2">2. The place is the Church of <hi>Weſtminſter,</hi> to which it is by di<g ref="char:EOLhyphen"/>vers Charters granted to be the place for the Kings Coronation, and the Repoſitory of the <hi>Regalia.</hi>
+               </p>
+               <p n="3">3. The time (if it may well be) ſome Sunday or Holy-day.</p>
+               <div type="section">
+                  <head>The Preparation.</head>
+                  <p n="1">1. There is a Stage ſet up, ſquare, cloſe to the four high Pillars, between the Quire and the Altar, Railed about, which Stage is to be ſpread with Tapiſtry, and the Rails of it to be Richly covered.</p>
+                  <p n="2">2. It is alſo to have Stairs, out of the Quire up to it: and down from it to the Altar, other Stairs Eaſtward.</p>
+                  <p n="3">3. There is a Throne of Eſtate for the King, to be Erected on the ſaid Stage, adorn<g ref="char:EOLhyphen"/>ed in all points as is meet.</p>
+                  <p n="4">4. There is alſo another Chair of Eſtate for the King, to be ſet below by the Altar, on the right ſide of it, and a Fald-ſtool, with Cuſhions for the King to pray at.</p>
+                  <p n="5">5. There is a Traverſe alſo to be made in St. <hi>Edward</hi>'s Chappel, for the King to diſrobe himſelf in, after the Ceremonies of his Coronation ended.</p>
+               </div>
+               <div type="section">
+                  <head>The Evening before the Coronation.</head>
+                  <p n="1">1. The Evening before the Coronation, the King is to be put in mind to give him<g ref="char:EOLhyphen"/>ſelf a certain ſpace to Contemplation and Prayers.</p>
+                  <p>It appertaineth by Office to the Dean of <hi>Weſtminſter,</hi> to remember His Majeſty of this and other Obſervances.</p>
+                  <p n="2">2. There is then alſo to be delivered by His Majeſties appointment, to ſuch Perſons as he ſhall like to aſſign to carry them;
+<list>
+                        <item>1. The Regal.</item>
+                        <item>2. The Paten.</item>
+                        <item>3. The two Scepters.</item>
+                        <item>4. The Rod with the Dove,</item>
+                        <item>5. The Spurs.</item>
+                     </list>
+                  </p>
+                  <p n="3">3. There is then alſo to be delivered to His Majeſty the <hi>Tunica,</hi> or Shirt of red Silk, with the places for the Anointing opened, and looped cloſe, which he is to wear next over his Shirt.</p>
+               </div>
+               <div type="section">
+                  <head>The Morning of the Coronation.</head>
+                  <p n="1">1. It is to be provided, that all the <hi>Regalia</hi> (that is, King <hi>Edward</hi> the Confeſſors) Crown and other Ornaments, together with the Ampul, wherein is the Oyl, with which Anciently the Kings and Queens have been Anointed, be laid ready upon the Altar.</p>
+                  <p n="2">2. It is to be provided, that the Crown and other Robes Royal, which the King is to put on and wear after the Rites of the Coronation ended, be brought and laid ready in the Traverſe within St. <hi>Edward</hi>'s Chappel.</p>
+                  <pb n="4" facs="tcp:97508:3"/>
+                  <p n="3">3. There is Cloth to be ſpread on the Ground from the Palace-Hall Door unto the Stage in the Church, for His Majeſty to tread on all the way, by the Heir of the Lord <hi>Beauchamp</hi> of <hi>Bedford,</hi> Almoner for the Coronation-day.</p>
+               </div>
+               <div type="section">
+                  <head>The Receiving of the King into the Church.</head>
+                  <p n="1">1. The Arch-Biſhop and Biſhops of the Realm then preſent, together with the Church and Quire of <hi>Weſtminſter</hi> onely, are to meet the King at the Palace-gate, in Proceſſion-wiſe.</p>
+                  <p n="2">2. Two Biſhops aſſigned by the King, are to bear the one the Regal, the other the Paten.</p>
+                  <p n="3">3. After them, three Peers (by the King likewiſe to be appointed) are to bear, the one the Scepter with the Croſs, the other the long Scepter, the third the Rod with the Dove.</p>
+                  <p n="4">4. After them the three Swords to be born by the Earl of <hi>Cheſter, Huntingdon,</hi> and <hi>Warwick.</hi>
+                  </p>
+                  <p n="5">5. After them, a Peer, by the King appointed to bear the Spurs.</p>
+                  <p n="6">6. Then the King under a Canopy born by the Barons of the Cinque-Ports. The King ſupported by the two Biſhops of <hi>Durham</hi> and <hi>Bathe.</hi>
+                  </p>
+                  <p n="7">7. The Dean of <hi>Weſtminſter</hi> is to be by to inform the King in thoſe things that concern the Solemnity of the Coronation.</p>
+                  <p>The King is to be received into the Church with an Anthem.</p>
+                  <p>BEhold, O Lord, our Protector, and look upon the face of thine Anointed, becauſe one day in thy Court is better than a thouſand.</p>
+                  <p>The King paſſing up the body of the Church, and ſo through the Quire, goeth up the Stairs unto his Throne of Eſtate, and there repoſeth himſelf.</p>
+                  <p>The King ſet in his Throne, the Arch-Biſhop going to every of the four ſides of the Stage, <hi>viz.</hi> North, South, Eaſt and Weſt, (the Marſhal of <hi>England</hi> going before him to all the ſaid places) asketh the People if they be willing to accept of the King as their Soveraign, that he may be Anointed and Crowned: In theſe words.</p>
+               </div>
+               <div type="section">
+                  <head>The People demanded if they be willing.</head>
+                  <p>Sirs, here I preſent unto you King <hi>James,</hi> the Rightful Inheritor of the Crown of this Realm; wherefore all you that be come this day to do your Homage, Service, and bounden Duty, be ye willing to do the ſame?</p>
+                  <p>
+                     <hi>Or thus,</hi>
+                  </p>
+                  <p>Sirs, here preſent is <hi>James,</hi> rightful and undoubted Inheritor by the Laws of God and Man, to the Crown and Royal Dignity of <hi>England,</hi> with all things thereunto an<g ref="char:EOLhyphen"/>nexed and appertaining, Elect, Choſen, and Required by all three Eſtates of this ſame Land, to take upon him this ſaid Crown and Royal Dignity; whereupon you ſhall underſtand that this day is fixed and appointed by all the Peers of the Land, for the Conſecration, Enunction, and Coronation of the ſaid moſt Excellent Prince <hi>James.</hi> Will you ſerve him at this time, and give your wills and aſſents to the ſame Conſe<g ref="char:EOLhyphen"/>cration, Enunction, and Coronation?</p>
+                  <p>
+                     <hi>Or thus,</hi>
+                  </p>
+                  <p>Will you take this Worthy Prince <hi>James,</hi> right Heir of the Realm, and have him to your King, and become Subjects to him, and ſubmit your ſelves to his Command<g ref="char:EOLhyphen"/>ments?</p>
+                  <p>This while, the King ſtanding up, turneth himſelf to every of the four ſides, as the Arch-Biſhop is at every of them ſpeaking to the People.</p>
+                  <p>The People ſignifying their willingneſs, by anſwering all in one voice, Yea, Yea, <hi>God Save King James.</hi> The Quire ſingeth the Anthem.</p>
+                  <p>LET thy Hand be ſtrengthned, and thy Right Hand be exalted. Let Juſtice and Judgment be the preparation of thy Seat, and Mercy and Truth go before thy Face. <hi>Glory be to the Father,</hi> &amp;c.</p>
+                  <pb n="5" facs="tcp:97508:3"/>
+                  <p>While the Quire ſingeth the Anthem, the Arch-Biſhop goeth down to the Altar, and reveſteth himſelf there.</p>
+                  <p>The Arch-Biſhop being there ready, the King, ſupported by the two Biſhops, (as before) and attended by the Dean of <hi>Weſtminſter,</hi> goeth down from his Throne to the Altar.</p>
+               </div>
+               <div type="section">
+                  <head>The King's Offering, and the Sermon.</head>
+                  <p>There he maketh his firſt Oblation, which is a Pall and Twenty Pieces of Gold.</p>
+                  <p>After the King hath Offered, he kneeleth down at his Fald-ſtool.</p>
+                  <p>The Arch-Biſhop ſaith the Prayer.</p>
+                  <p>O GOD which doſt viſit thoſe that are humble, and doſt comfort us by the light of thy Holy Spirit, ſend down thy Grace upon this thy Servant <hi>James,</hi> that by him we may feel thy preſence amongſt us, through Jeſus Chriſt.</p>
+                  <p>Then doth the Sermon begin, which the King heareth in his Chair of Eſtate by the Altar on the South ſide of it.</p>
+                  <p>The Sermon being done, the Arch-Biſhop goeth to the King, and asketh His Ma<g ref="char:EOLhyphen"/>jeſty concerning his willingneſs to take the Oath, uſually taken by his Predeceſſors.</p>
+                  <p>The King (ſhewing himſelf willing therewithal) ariſeth and cometh to the Altar.</p>
+                  <p>The Arch-Biſhop miniſtreth the three firſt Queſtions, and the King anſwereth them ſeverally. <hi>Scilicet.</hi>
+                  </p>
+                  <p>Arch-Biſhop. <hi rend="blackletterType">Sir, Will you grant and keep, and by your Oath Confirm to the People of</hi> England <hi rend="blackletterType">the Laws and Cuſtoms to them granted by the Kings of</hi> England, <hi rend="blackletterType">your Law<g ref="char:EOLhyphen"/>ful and Religious Predeceſſors, and namely, the Laws, Cuſtoms, and Franchiſes, granted to the Clergy by the Glorious King,</hi> St. Edward, <hi rend="blackletterType">your Predeceſſor, according to the Laws of God, the true Profeſſion of the Goſpel Eſtabliſhed in this Kingdom, agreeable to the Prerogative for the Kings thereof, and the Ancient Cuſtoms of this Realm?</hi>
+                  </p>
+                  <p>
+                     <hi>King.</hi> I grant and promiſe to keep them.</p>
+                  <p>A. Biſh. <hi rend="blackletterType">Sir, Will you kéep Peace and Godly Agréement (according to your Power) both to God, the Holy Church, the Clergy, and the People?</hi>
+                  </p>
+                  <p>
+                     <hi>King.</hi> I will keep it.</p>
+                  <p>A. Biſh. <hi rend="blackletterType">Sir, Will you (to your power) cauſe Law, Iuſtice, and Diſcretion to Mercy and Truth to be executed to your Iudgment?</hi>
+                  </p>
+                  <p>
+                     <hi>King.</hi> I will.</p>
+                  <p>A. Biſh. <hi rend="blackletterType">Sir, Will you grant to hold and kéep the Laws and Rightful Cuſtoms which the Commonalty of this your Kingdom have? And will you defend and uphold them to the Honour of God, ſo much as in you lyeth?</hi>
+                  </p>
+                  <p>
+                     <hi>King.</hi> I grant and promiſe ſo to do.</p>
+               </div>
+               <div type="section">
+                  <head>Then one of the Biſhops read this paſſage to the King.</head>
+                  <p>
+                     <hi rend="blackletterType">Our Lord and King, We beſéech you to pardon and to grant, and to preſerve unto us, and to the Churches committed to your Charge, all Canonical Priviledges, and due Law and Iuſtice, and that you would protect and defend us, as every good King to his Kingdoms ought to be Protector and Defender of the Biſhops and the Churches under their Govern<g ref="char:EOLhyphen"/>ment.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>The King Anſwereth,</head>
+                  <p>With a willing and Devout Heart I promiſe and grant my Pardon; and that I will preſerve and maintain to you, and the Churches committed to your Charge, all Cano<g ref="char:EOLhyphen"/>nical Priviledges, and due Law and Juſtice, and that I will be your Protector and De<g ref="char:EOLhyphen"/>fender to my power, by the aſſiſtance of God, as every good King in his Kingdom in right ought to Protect and Defend the Biſhops and Churches under their Govern<g ref="char:EOLhyphen"/>ment.</p>
+                  <p>Then the King aroſe, and was led to the Communion-Table, where he takes a So<g ref="char:EOLhyphen"/>lemn Oath in ſight of all the People, to obſerve all the Premiſſes, and laying his hand upon the Bible, ſaid,
+<q rend="blackletterType">The things which I have here Promiſed, I ſhall perform and kéep; So Help me God, and the Contents of this Book.</q>
+                  </p>
+                  <p>After the Oath thus taken, the King returneth to his Chair of State again.</p>
+                  <pb n="6" facs="tcp:97508:4"/>
+                  <p>The Archbiſhop beginneth the Hymn <hi>Veni Creator Spiritus,</hi> and the Quire ſing it.</p>
+                  <p>The Hymn ended the King kneels down at his Fald-ſtool, and the Archbiſhop ſayeth this Prayer.</p>
+                  <p>WE beſeech thee, O Lord holy Father, almighty and everlaſting God, for this thy Servant <hi>James,</hi> that as at the firſt thou broughteſt him into the World by thy Divine Providence, and in the flower of his youth, haſt preſerved him until this preſent day, ſo thou wilt evermore enrich him with the gift of Piety, fulfil him with the grace of truth, and increaſe him daily in all goodneſs in the ſight of God and men, that he may joyfully receive the Seat of ſupreme Government, by the gift of thy ſu<g ref="char:EOLhyphen"/>pernal Grace; and being defended from all his Enemies, by the wall of thy Mercy, he may happily govern the people committed to his charge.</p>
+                  <p>After the prayer done, beginneth the Litany to be ſung by two Biſhops.</p>
+               </div>
+               <div type="section">
+                  <head>Let us Pray.</head>
+                  <p>O Almighty and everlaſting God, Creator of all things, Ruler of Angels, King of Kings, and Lord of Lords, who didſt cauſe thy faithful ſervant <hi>Abraham</hi> to tri<g ref="char:EOLhyphen"/>umph over his Enemies; didſt give many victories to <hi>Moſes,</hi> and <hi>Joſhua,</hi> the Gover<g ref="char:EOLhyphen"/>nors of thy people, didſt exalt thy lowly ſervant <hi>David</hi> unto the height of a Kingdom; didſt enrich <hi>Solomon</hi> with the unſpeakable gift of Wiſdom and Peace. Give ear we beſeech thee unto our humble Prayers, and multiply thy bleſſing upon this thy Ser<g ref="char:EOLhyphen"/>vant, whom in lowly devotion we do conſecrate our King; that he being ſtrengthned with the Faith of <hi>Abraham,</hi> indued with the Mildneſs of <hi>Moſes,</hi> armed with the For<g ref="char:EOLhyphen"/>titude of <hi>Joſhua,</hi> exalted with the Humility of <hi>David,</hi> beautified with the Wiſdom of <hi>Solomon,</hi> he may pleaſe thee in all things, he may always walk uprightly in the way of Righteouſneſs, he may nouriſh and teach, defend and inſtruct thy Church and people, and like a mighty King, miniſter unto them the government of thy Vertue againſt all enemies viſible and inviſible, and by thy help reform their minds to the concord of true Faith and Peace, that being underpropped by the due Obedience, and honoured by the condign Love of theſe his people, he may, by thy Mercy royally aſcend up to the Throne of his forefather, and being defended with the Helmet of thy prote<g ref="char:EOLhyphen"/>ction, covered with thy invincible Shield, and all clad with Heavenly Armour, he may gloriouſly triumph, and by his power both terrifie Infidels, and bring joyful peace to thoſe that fight for thee, through our Lord, who by the power of his Croſs hath deſtroyed Hell, and having overthrown the Kingdom of the Devil, is with victory aſcended into Heaven, in whom doth conſiſt all Power, Kingdom and Victory, who is the glory of the humble, the life and ſalvation of his people, who liveth with thee and the holy Ghoſt.</p>
+                  <p>O Lord, thou that governeſt all Kingdoms from everlaſting, bleſs we beſeech thee this our King, that he may rule like <hi>David,</hi> and by thy Mercy obtain his reward. Grant that by thy inſpiration he may govern with the Mildneſs of <hi>Solomon,</hi> and en<g ref="char:EOLhyphen"/>joy a peaceable Kingdom. Grant that he may ſerve thee with fear, and fight for thee with conſtancy. Protect him and his Nobles with thy Shield, and always give him victory by thy Grace, Honour him before all the Kings of the Earth; Let him rule over Countryes, and let Nations adore him. Let him be ſingular in Judg<g ref="char:EOLhyphen"/>ment and Equity, and make him rich with thy rich right hand. Give him a fruitful Country, and give to his Children all good things. Give him a long life in this World, and in his days let Juſtice flouriſh. Strengthen thou the Throne of his Go<g ref="char:EOLhyphen"/>vernment, and with gladneſs and righteouſneſs, let him glory in thy eternal King<g ref="char:EOLhyphen"/>dom, through Jeſus Chriſt.</p>
+                  <p>GOd the unſpeakable Author of the World, the Creator of Mankind, the Gover<g ref="char:EOLhyphen"/>nor of Empires, the Eſtabliſher of Kingdoms, who out of the loyns of thy faithful friend our Father <hi>Abraham,</hi> didſt chooſe a King that ſhould ſave all Nations. Bleſs we beſeech thee this our preſent King, and his Army with a rich bleſſing. Eſta<g ref="char:EOLhyphen"/>bliſh him in the Throne of this Kingdom. Viſit him, as thou didſt viſit <hi>Moſes</hi> in the Buſh, <hi>Joſua</hi> in the Battel, <hi>Gedeon</hi> in the Field, and <hi>Samuel</hi> in the Temple; beſprinkle him with the dew of thy Wiſdom, and give unto him the bleſſing of <hi>David</hi> and <hi>Solo<g ref="char:EOLhyphen"/>mon.</hi> Be thou unto him a Coat-Armour againſt his Enemies, and an Helmet in adver<g ref="char:EOLhyphen"/>ſity.
+<pb n="7" facs="tcp:97508:4"/>Give him patience in proſperity, and protect him always with thy Shield. Grant that other Countries may keep Faith unto him, and that his Nobles may live in Peace, embrace Charity, abſtain from Covetouſneſs, ſpeak Juſtice and maintain Truth: and ſo this people may grow up together with the bleſſing of Eternity, that having overcome, they may rejoyce in everlaſting peace, through Chriſt our Lord.</p>
+                  <p>GOd which provideſt for thy people by thy Power, and ruleſt over them in Love, grant unto this thy Servant <hi>James,</hi> the ſpirit of Wiſdom and Government, that being devoted unto thee with all his heart, he may ſo wiſely govern this Kingdom, that in his time the Church may be in ſafety, and Chriſtian Devotion may continue in Peace, that ſo perſevering to the end in good works, he may by thy Mercy come unto thine everlaſting Kingdom, through thy Son our Lord Jeſus Chriſt, who liveth and reigneth with thee World without end. <hi>Amen.</hi>
+                  </p>
+                  <p>The Litany being ended, the Archbiſhop beginneth to ſay aloud,
+<list>
+                        <item>Lift up your Hearts. &amp;c.</item>
+                        <item>
+                           <hi>Anſw.</hi> We lift them up unto the Lord.</item>
+                     </list>
+                  </p>
+                  <p>It is very meet, right, and our bounden duty, that we ſhould at all times, and in all places, give thanks unto thee, O Lord, holy Father, Almighty and everlaſting God, the ſtrength of thy Choſen, and the exalter of the Humble, which in the be<g ref="char:EOLhyphen"/>ginning, by the pouring out of the Flood, didſt chaſten the ſins of the World, and by a Dove conveying an Olive branch, didſt give a token of reconcilement unto the Earth, and again diſt conſecrate thy Servant <hi>Aaron</hi> a Prieſt, by the anoynting of Oyl, and afterward by the effuſion of this Oyl, didſt make Prieſts, and Kings, and Prophets, to govern thy people <hi>Iſrael,</hi> and by the voice of the Prophet <hi>David,</hi> didſt foretel, that the Countenance of thy Church ſhould be made chearful with Oyl. We beſeech thee Almighty Father, that thou wilt vouchſafe to bleſs and ſanctifie this thy Servant <hi>James,</hi> that he may miniſter Peace unto his people, and imitate <hi>Aaron</hi> in the Service of God. That he may attain the perfection of Government in Counſel and Judgement, and a countenance always chearful, and amiable to the whole people, through Chriſt our Lord.</p>
+                  <p>This done, the King ariſeth from his Devotion, and repoſeth him a while in his Chair of Eſtate.</p>
+                  <p>After a while, he goeth to the Altar, and there diſrobeth himſelf of his upper gar<g ref="char:EOLhyphen"/>ments (his under apparel being made open with loops only cloſed) at the places which are to be anoynted.</p>
+                  <p>The Archbiſhop undoeth the loops, and openeth the places which he is to anoynt.</p>
+                  <p>The Archbiſhop firſt anoynteth his hands: ſaying,</p>
+                  <p>Let theſe hands be anoynted, as Kings and Prophets have been anoynted, and as <hi>Samuel</hi> did anoynt <hi>David</hi> to be King, that thou maiſt be bleſſed, and eſtabliſhed a King in this Kingdom over this people, whom the Lord thy God hath given thee to rule and govern, which he vouchſafe to grant, who with the Father and the holy Ghoſt, &amp;c.</p>
+                  <p>The mean while the Quire ſingeth the Anthem.</p>
+                  <p>
+                     <hi>Sadock</hi> the Prieſt, and <hi>Nathan</hi> the Prophet, anoynted <hi>Solomon</hi> King, and all the peo<g ref="char:EOLhyphen"/>ple rejoyced, and ſaid, <hi>God ſave the King for ever.</hi>
+                  </p>
+                  <p>The Archbiſhop ſaith this prayer.</p>
+                  <p>LOok down Almighty God with thy favourable countenance upon this glorious King, and as thou didſt bleſs <hi>Abraham, Iſaac</hi> and <hi>Jacob,</hi> ſo vouchſafe we beſeech thee by thy power, to water him plentifully with the bleſſings of thy grace. Give unto him of the dew of Heaven, and of the fatneſs of the Earth, abundance of Corn, and Wine, and Oyl, and plenty of all fruits of thy goodneſs long to continue, that in his time here may be health in our Country, and Peace in our Kingdom, and that the glorious dignity of his Royal Court, may brightly ſhine as a moſt clear lightning, far and wide in the eyes of all Men. Grant Almighty God, that he may be a moſt
+<pb n="8" facs="tcp:97508:5"/>mighty protector of his Country, a bountiful comforter of Churches and holy Socie<g ref="char:EOLhyphen"/>ties, the moſt valiant of Kings, that he may triumph over his Enemies, and ſubdue Rebels and Infidels; that he may be loving and amiable to the Lords and Nobles, and all the faithful Subjects of his Kingdom, that he may be feared, and loved of all Men, that his Children may be Kings to rule this Kingdom by ſucceſſion of all ages, and that after the glorious and happy days of this preſent life, he may obtain ever<g ref="char:EOLhyphen"/>laſting joy and happineſs through Chriſt our Lord.</p>
+                  <p>The Prayer ended, the Archbiſhop proceedeth with his anointing.</p>
+                  <list>
+                     <item>1. Of the Breaſt.</item>
+                     <item>2. Between the Shoulders.</item>
+                     <item>3. Of both the Shoulders.</item>
+                     <item>4. Of the boughes of both his arms.</item>
+                     <item>5. Of his head in the Crown.</item>
+                  </list>
+                  <p>The anoynting being done, the Dean of <hi>Weſtminſter</hi> cloſeth the Loops again which were opened,</p>
+                  <p>The Archbiſhop ſaith theſe Prayers.</p>
+                  <p>GOd the Son of God, Chriſt Jeſus our Lord, which was anoynted by his Father with the Oyl of gladneſs above his fellows, he by his holy anoynting, pour down upon thy head the bleſſing of the holy Ghoſt, and make it enter into the inward part of thy heart, ſo that thou maiſt receive inviſible grace, and having juſtly governed thy temporal Kingdom, thou maiſt raign with him eternally, who only being with<g ref="char:EOLhyphen"/>out ſin, doth live in glory with God, and the Father, and the holy Ghoſt.</p>
+                  <p>GOd which art the glory of the Righteous, and the mercy of Sinners, who hath ſent thy Son to redeem Mankind with his precious blood, who bringeſt Wars to an end, and defendeſt, thoſe that truſt in thee, upon whoſe good will and pleaſure doth depend the ſtrength of all Kingdoms; we humbly pray in this Royal ſeat, to bleſs this thy Servant, who putteth his confidence in thy Mercy, vouchſafe in thy favour to be preſent with him, that he which deſireth to be defended by thy protection, may be ſtronger than his Enemies: Crown him with the Crown of Juſtice and Piety, that with all his heart, and all his mind, he may truſt in thee, ſerve thee, defend and ad<g ref="char:EOLhyphen"/>vance thy holy Church, and govern the people committed to his charge in juſtice and equity. Kindle O Lord his heart with the love of thy grace by the inward a<g ref="char:EOLhyphen"/>nointing wherewith thou haſt anointed Prieſts, Kings and Prophets, that he loving Juſtice, and leading his people by the ways of righteouſneſs, after the glorious courſe of this life which thou haſt appointed, he may come to eternal joy, through Chriſt.</p>
+                  <p>The Prayers being ended. Firſt a ſhallow Quoif is put on the Kings head (be<g ref="char:EOLhyphen"/>cauſe of the anointing)</p>
+                  <p>If His Majeſties hair be not ſmooth after it; there is King <hi>Edwards</hi> Ivory Comb for that end.</p>
+                  <p>Then the <hi>Colobium</hi> or <hi>Dalmatica</hi> is put on him.</p>
+                  <p>After the putting on whereof, the Archbiſhop ſaith the Prayer.</p>
+                  <p>O God the <hi>King</hi> of <hi>Kings,</hi> and <hi>Lord</hi> of <hi>Lords</hi> by whom <hi>Kings</hi> do reign, and Law<g ref="char:EOLhyphen"/>givers do make good Laws, vouchſafe in thy favour to bleſs this Kingly orna<g ref="char:EOLhyphen"/>ment, and grant that thy Servant our <hi>King,</hi> who ſhall wear it, may ſhine in the ſpirit, with the ornament of good life, and holy actions, and after this life ended, he may for ever enjoy that life, and glory which hath no end, through Chriſt our Lord.</p>
+                  <p>The King putteth on the Linnen Gloves (part of the <hi>Regalia.</hi>)</p>
+                  <p>Then he taketh off his Sword, wherewith he was girt before.</p>
+                  <p>He goeth to the Altar, and there offereth it.</p>
+                  <p>The chief Peer then preſent offereth, and redeemeth the Sword.</p>
+                  <p>Which having done, he draweth the Sword out, and carrieth it naked before the King, from that time all the Solemnity.</p>
+                  <p>The Archbiſhop taketh the Scepter with the Croſs, and delivereth it into the Kings right-hand, with theſe words.</p>
+                  <p>Receive the Scepter, the ſign of Kingly power, the Rod of the Kingdom, the Rod of Vertue, that thou maiſt govern thy ſelf aright, and defend the holy Church and Chriſtian people committed by God unto thy charge. Puniſh the wicked, and pro<g ref="char:EOLhyphen"/>tect
+<pb n="9" facs="tcp:97508:5"/>the juſt, and lead them in the way of righteouſneſs, that from this Temporal Kingdom, thou maiſt be advanced to an Eternal Kingdom, by his goodneſs whoſe Kingdom is everlaſting.</p>
+                  <p>After the Archbiſhop ſaith this Prayer.</p>
+                  <p>O Lord the Fountain of all good things, and the Author of all good proceedings, grant we beſeech thee to this thy Servant <hi>James,</hi> that he may order aright the dignity he hath obtained. Vouchſafe to confirm the honour which thou haſt given him, honour him before all Kings, and enrich him with a rich benediction; eſtabliſh him in the Throne of this Realm; viſit him with increaſe of Children, let juſtice ſpring up in his days, and with joy of gladneſs, let him Reign in thine everlaſting Kingdom.</p>
+                  <p>Then the Archbiſhop delivereth the Rod with the Dove into the Kings left hand, ſaying,</p>
+                  <p>Receive the Rod of Vertue and equity, Learn to make much of the godly, and to terrifie the wicked. Shew the way to thoſe that go aſtray. Offer thy hand to thoſe that fall. Repreſs the proud. Lift up the Lowly, that our Lord Jeſus Chriſt may open to thee the dore, who ſaith of himſelf, <hi>I am the door, by me if any Man enter in he ſhall be ſafe;</hi> and let him be thy helper, who is the key of <hi>David</hi> and the Scepter of the houſe of <hi>Iſrael,</hi> who openeth and no man ſhutteth, who ſhutteth and no man openeth, who bringeth forth the captive out of Priſon, where he ſate in darkneſs and in the ſhadow of death, that in all things thou mayeſt follow him of whom the Pro<g ref="char:EOLhyphen"/>phet <hi>David</hi> ſaith, <hi>Thy ſeat O God endureth for ever, the Scepter of thy Kingdom is a right Scepter; thou haſt loved righteouſneſs, and hated iniquity:</hi> Wherefore God, even thy God hath anointed thee with the Oyl of gladneſs above thy Fellows, even Jeſus Chriſt our Lord.</p>
+                  <p>
+                     <hi>After this he bleſſeth the King, ſaying,</hi>
+                  </p>
+                  <p>THe Lord bleſs and keep thee, and as he hath made thee King over his people, ſo he ſtill proſper thee in this World, and make thee partaker of his eternal felicity in the World to come. <hi>Amen.</hi>
+                  </p>
+                  <p>GRant O Lord that the Clergy and People gathered together by thy Ordinance, for this Service of the King may by the gracious aſſiſtance of thy goodneſs, and the vigilant care of thy Servant and King, be continually governed and preſerved in all happineſs. <hi>Amen.</hi>
+                  </p>
+                  <p>GRant that they obeying thy holy will, may be freed from all adverſities, and en<g ref="char:EOLhyphen"/>joying the riches of thy grace, may with ſervent love walk in the ways of thy Commandments, that in this life being made partakers of thy peace, they may be Ci<g ref="char:EOLhyphen"/>tizens of thy Kingdom in the life that is to come, through Jeſus Chriſt our Lord. <hi>Amen.</hi>
+                  </p>
+                  <p>The King kiſſeth the Archbiſhop, and the Biſhops then aſſiſtant.</p>
+                  <p>After this the King goeth up from the Altar to the Stage (all the Peers ſolemnly at<g ref="char:EOLhyphen"/>tending His Majeſty in their places.)</p>
+                  <p>In the mean time the Quire ſing; we praiſe thee O God.</p>
+                  <p>Which being ended, the Archbiſhop inthronizeth the King into his Throne there, ſaying,</p>
+                  <p>Stand and hold faſt from henceforth, that place whereof hitherto thou haſt been Heir by the ſucceſſion of thy Fore-fathers, being now delivered unto thee, by the au<g ref="char:EOLhyphen"/>thority of Almighty God, and by the hands of us, and all the Biſhops and Servants of God; and as thou ſeeſt the Clergy to come nearer unto the Altar, ſo remember that in places convenient thou give them greater honour, that the Mediator of God and Man may eſtabliſh thee in this Kingly Throne, to be the Mediator betwixt the Clergy and the Laity, and that thou maiſt reign for ever with Jeſus Chriſt, the King of Kings, and the Lord of Lords, who with the Father and the Holy Ghoſt, liveth and reigneth for ever. <hi>Amen.</hi>
+                  </p>
+                  <p>Which done, all the Peers do their homage to the King, in theſe words.</p>
+                  <pb n="10" facs="tcp:97508:6"/>
+                  <p>
+                     <hi rend="blackletterType">I become your Leige-man of Life and Limb, and of Earthly Worſhip, and Faith and Troth ſhall bear unto you, to live and dye with you againſt all manner of folk. So God me help.</hi>
+                  </p>
+                  <p>And after, put their hands and touch the Crown (by way of ceremony, as promi<g ref="char:EOLhyphen"/>ſing to ſupport it with all their power.)</p>
+                  <p>Then the King to eaſe himſelf of the Scepter and Rod in his hands, giveth them to carry to ſuch as it pleaſeth His Majeſty.</p>
+                  <p>The Archbiſhop kneeled down, and made his homage as followeth.</p>
+               </div>
+               <div type="section">
+                  <head>Out of the Coronation of <hi>Edward</hi> the ſixth.</head>
+                  <q>J. A. <hi rend="blackletterType">Shall be faithful and true, and Faith and Troth bear unto you our Soveraign Lord, and to your Heirs Kings of</hi> England, <hi rend="blackletterType">and I ſhall do and truly knowledge the ſervice due of the Lands, I claim to hold of you, as in the right of</hi> your <hi>Church, as God ſhall help me.</hi>
+                  </q>
+                  <p>And ſo kiſſed the Kings left cheek, <hi>&amp;c.</hi>
+                  </p>
+                  <p>Or theſe words taken out of another book.</p>
+                  <q>
+                     <hi rend="blackletterType">I become your man Leige of life and Limb, and Troth and hearty Honour to you ſhall bear, againſt all men that now live and dye. So help me God.</hi> &amp;c.</q>
+                  <p>The Archbiſhop goeth down to the Altar, and begins the Communion.</p>
+               </div>
+               <div type="section">
+                  <head>The Prayer.</head>
+                  <p>O Almighty God, we beſeech thee that this thy Servant <hi>James</hi> our King, who by thy Mercy hath received the government of this Realm, may alſo receive an in<g ref="char:EOLhyphen"/>creaſe of all Vertues, whereby he may be acceptable to thee, and avoid the gulfe of vice, and overcome all his enemies, and finally come to thee in glory, who art the Way the Truth, and the Life, through Chriſt our Lord.</p>
+                  <list>
+                     <item>The Epiſtle, 1 <hi>Pet.</hi> 2. By two Biſhops.</item>
+                     <item>The Goſpel, <hi>Matth.</hi> 22. By two Biſhops.</item>
+                     <item>The <hi>Nicene</hi> Creed.</item>
+                     <item>The Offertory.</item>
+                  </list>
+                  <p>The King cometh down from the Throne to offer.</p>
+                  <p>He offereth twice.</p>
+                  <list>
+                     <item>1. Bread and Wine.</item>
+                     <item>2. A Mark of Gold.</item>
+                  </list>
+               </div>
+               <div type="section">
+                  <head>Then the Prayer.</head>
+                  <p>ALmighty God, give thee of the dew of Heaven, and of the fat of the Earth, abundance of Corn and Wine. Let the Nations ſerve thee, and the Tribes a<g ref="char:EOLhyphen"/>dore thee, and let him be bleſſed that bleſſeth thee, and <hi>God</hi> ſhall be thy helper. Al<g ref="char:EOLhyphen"/>mighty <hi>God,</hi> bleſs you with the bleſſing of Heaven above, in the Mountains and Hills, and with the bleſſings of the Earth beneath, with the bleſſings of Corn and Wine, and Fruit, and let the bleſſings of the old Fathers, <hi>Abraham, Iſaac,</hi> and <hi>Jacob,</hi> be eſtabliſh<g ref="char:EOLhyphen"/>ed upon thee through Chriſt our Lord.</p>
+                  <p>BLeſs O Lord, the vertuous courage of this <hi>King,</hi> and accept the work of his hands, repleniſh his Realm with the increaſe of thy Bleſſings, with the Fruit of the Hea<g ref="char:EOLhyphen"/>vens, and the dew of the Water, and the depths. Let the influence of the Sun and the Moon, drop down fatneſs upon the high Mountains, and the Clouds rain plenty upon the low Vallies, that the Earth may abound with ſtore of all things. Let the bleſſings of him that appeared in the Buſh, deſcend upon his head, and the fulneſs of
+<pb n="11" facs="tcp:97508:6"/>his Bleſſings fall upon his Children and Poſterity. Let his Feet be dipped in Oyl, and his Horn be exalted, as the Horn of an Unicorn, by which he may ſcatter his Ene<g ref="char:EOLhyphen"/>mies from on the face of the Earth; the Lord that ſitteth in Heaven be his defender for ever and ever, through Jeſus Chriſt our Lord. <hi>Amen.</hi>
+                  </p>
+                  <p>BLeſs, we beſeech thee, O Lord, theſe thy gifts, and ſanctifie them unto this Holy uſe, that by them we may be made partakers of the Body and Blood of thy only begotten Son Jeſus Chriſt. And thy Servant our King <hi>James</hi> may be fed unto ever<g ref="char:EOLhyphen"/>laſting Life of Soul and Body, and enabled to the diſcharge of his great Place and Office, whereunto thou haſt called him of thy great goodneſs: grant this, O Lord, for Jeſus Chriſts ſake, our only Mediator and Advocate. <hi>Amen.</hi>
+                  </p>
+                  <p>O GOD, the <hi>King</hi> of <hi>Kings,</hi> and <hi>Lord</hi> of <hi>Lords,</hi> by whom <hi>Kings</hi> do Reign, and Law<g ref="char:EOLhyphen"/>givers do make good Laws, vouchſafe in thy favour to bleſs this Kingly Orna<g ref="char:EOLhyphen"/>ment, and grant that thy Servant our <hi>King,</hi> who ſhall wear it, may ſhine in the ſpirit, with the Ornament of Good Life, and Holy Actions, and after this Life ended, he may for ever enjoy that Life and Glory which hath no end, through Chriſt our Lord.</p>
+                  <p>The Prayer done, the Dean of <hi>Weſtminſter</hi> arrayeth the King,
+<list>
+                        <item>1. With the <hi>Supertunica,</hi> or cloſe Pall.</item>
+                        <item>2. Then with the Tynſin Hoſe.</item>
+                        <item>3. Then with his Sandals.</item>
+                     </list>
+                  </p>
+                  <p>The Spurs are put on by a Noble-man, thereto by the King appointed.</p>
+                  <p>Then the Arch-Biſhop taketh the Sword, and layeth it before him on the Altar, and ſaith this Prayer.</p>
+                  <p>HEar our Prayers, we beſeech thee, and vouchſafe by thy Right Hand of Majeſty, to Bleſs and Sanctifie this Sword, wherewith this thy Servant <hi>James</hi> deſireth to be girt, that it may be a Defence and Protection of Churches, Widdows, Orphans, and all the Servants of <hi>God,</hi> againſt the ſavage cruelty of Pagans and Infidels; and that it may be a fear and terror to all thoſe that lye in wait to do miſchief, through Chriſt our Lord.</p>
+                  <p>Then the Arch-Biſhop delivereth the Sword into the <hi>Kings</hi> Hands, (which Sword is girt about him by a <hi>Peer</hi> thereto appointed) ſaying,</p>
+                  <p>REceive this Kingly Sword <hi>(which is hallowed)</hi> for the Defence of the Faith of Chriſts Holy Church, and delivered unto thee by the hands of Biſhops, though unworthy, yet Conſecrated in the place of the Holy Apoſtles; and remember of whom the <hi>Pſalmiſt</hi> did Propheſie, ſaying, <hi>Gird thy ſelf with thy Sword upon thy Thigh, O thou moſt Mighty;</hi> and with this Sword exerciſe thou the force of Equity, and mightily de<g ref="char:EOLhyphen"/>ſtroy the growth of Iniquity; Protect the Holy Church of <hi>God,</hi> and his Faithful Peo<g ref="char:EOLhyphen"/>ple, and purſue Hereticks no leſs than Infidels, defend and help Widdows and Orphans. Reſtore the things that are gone to decay, and maintain thoſe things that are reſtored, be revenged of Injuſtice, and confirm things that are in good Order, that doing theſe things, thou maiſt be glorious in the triumph of Vertue, and excellent in the orna<g ref="char:EOLhyphen"/>ment of Juſtice, and Reign for ever with the Saviour of the World, whoſe Image you bear, who with the Father and the Holy Ghoſt.</p>
+                  <p>Then the <hi>Armil</hi> is put about his Neck (in the manner of a Stole) and tyed to the boughs of his two Arms:</p>
+                  <p>The Arch-Biſhop ſaying,</p>
+                  <p>REceive the <hi>Armil,</hi> as a token of Gods embracing, whereby all thy works may be defended againſt thy Enemies, both bodily and ghoſtly, through Chriſt our Lord.</p>
+                  <p>Then the Mantle or open Pall is put on by the Dean of <hi>Weſtminſter:</hi>
+                  </p>
+                  <p>The Arch-Biſhop ſaying,</p>
+                  <p>REceive this Pall, which is formed with four Corners, to let thee underſtand, that the four Quarters of the World are ſubject to the power of God, and that no Man can happily Reign upon Earth, who hath not received his Authority from Hea<g ref="char:EOLhyphen"/>ven.</p>
+               </div>
+               <div type="prayer">
+                  <pb n="12" facs="tcp:97508:7"/>
+                  <head>Then the Arch-Biſhop taketh the Crown into his hands, and ſaith this Prayer.</head>
+                  <p>O GOD of Eternity, the commander of all Powers, the vanquiſher of all Ene<g ref="char:EOLhyphen"/>mies, Bleſs this thy Servant, who boweth his Head unto thy Majeſty, preſerve him in long Health and proſperous Felicity, be preſent with him, protect and defend him, whenſoever he calleth upon thee. Give him, we beſeech thee, the Riches of thy Grace, fill his Soul with Goodneſs, and Crown him with thy Mercy, and let him always in godly Devotion wait upon thee, through thy Son our Lord Jeſus Chriſt.</p>
+               </div>
+               <div type="section">
+                  <head>The Arch-Biſhop Crowneth the King, ſaying,</head>
+                  <p>GOD Crown thee with a Crown of Glory and Righteouſneſs, with the Honour and Work of Fortitude, that thou by our Miniſtry, having a right Faith, and manifold Fruit of good Works, maiſt obtain the Crown of an Everlaſting Kingdom, by the gift of him whoſe Kingdom endureth for ever.</p>
+               </div>
+               <div type="anthem">
+                  <head>In the mean time the Quire ſingeth the Anthem.</head>
+                  <p>BE ſtrong and of a good courage, and obſerve the Commandments of the Lord, to walk in his ways and keep his Ceremonies, Precepts, Teſtimonies, and Jugments, and Almighty God proſper and ſtrengthen thee whitherſoever thou goeſt. The Lord is my Ruler, therefore I ſhall want nothing.</p>
+                  <p>THE King ſhall rejoyce in thy ſtrength, O Lord; exceeding glad ſhall he be of thy Salvation, for thou haſt granted him his Hearts deſire, and haſt not denyed him the requeſt of his Lips: for thou haſt prevented him with Bleſſings of goodneſs, and haſt ſet a Crown of pure Gold upon his Head.</p>
+               </div>
+               <div type="section">
+                  <head>Then he putteth the Ring on his Wedding-finger; ſaying,</head>
+                  <p>REceive the Ring of Kingly Dignity, and by it the Seal of Chriſtian Faith, that as this day thou art adorned the Head and Prince of this Kingdom and People, ſo thou maiſt perſevere as the Author and Eſtabliſher of Chriſtianity, and the Chri<g ref="char:EOLhyphen"/>ſtian Faith, that being rich in Faith, and happy in Works, thou maiſt Reign with him who is King of Kings, to whom be Glory and Honour, for ever and ever.</p>
+               </div>
+               <div type="section">
+                  <head>After this, the Arch-Biſhop ſaith this Prayer.</head>
+                  <p>O GOD, to whom belongeth all Power and Dignity, give unto thy Servant the Fruit of his Dignity, wherein grant he may long continue and fear thee always, and always labour to pleaſe thee, through Chriſt our Lord.</p>
+                  <p>The King cometh to the ſtep of the Altar, to receive the Sacrament.</p>
+                  <p>The Arch-Biſhop miniſtreth the Bread.</p>
+                  <p>The Dean of <hi>Weſtminſter</hi> the Cup.</p>
+                  <p>The King returneth to his Throne, and there ſtayeth the end of Service.</p>
+                  <p>The Communion being done, the King cometh down in Eſtate to the Altar.</p>
+                  <p>Thence into King <hi>Edward</hi>'s Chappel.</p>
+                  <p>The King taketh off his Crown, and delivereth it to the Arch-Biſhop, who layeth it on the Altar there.</p>
+                  <p>The King withdraweth himſelf into the Traverſe.</p>
+                  <p>There the Great Chamberlain of <hi>England</hi> diſrobeth him of the Robes of King <hi>Ed<g ref="char:EOLhyphen"/>ward</hi> the Confeſſor.</p>
+                  <p>Theſe Robes he immediately delivereth to the Dean of <hi>Weſtminſter.</hi>
+                  </p>
+                  <p>The King is arrayed with his own Royal Robes provided for His Majeſty to wear that day.</p>
+                  <p>The King being newly arrayed, cometh forth of the Traverſe, and goeth to King <hi>Edward</hi>'s Altar.</p>
+                  <p>There the Arch-Biſhop putteth on him the Crown which is provided for His Ma<g ref="char:EOLhyphen"/>jeſty to wear that day.</p>
+                  <p>The King taketh again his Scepter with the Croſs into his Hand, and the Rod with the Dove.</p>
+                  <p>The King with his whole Train in moſt Solemn manner goeth back to his Palace by the ſame way he came.</p>
+                  <p>Dinner being done, and the King withdrawing himſelf, the Scepter which the King carried in his Hand, with the Rod (being the <hi>Regalia</hi>) are to be re-delivered to the Dean of <hi>Weſtminſter</hi> again, to be kept as they have been.</p>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="13" facs="tcp:97508:7" rendition="simple:additions"/>
+               <head>THE CORONATION OF THE QUEEN.</head>
+               <p>THE Queen muſt be ſupported by two Biſhops, from the Weſt Door of the Church of <hi>Weſtminſter,</hi> &amp;c.</p>
+               <p>The Queen muſt be Anointed, <hi>&amp;c.</hi> after the Homage done by the Lords, and the Kings Coronation finiſhed.</p>
+               <p>The Queen following the King down to the Altar, going before the Lords, bearing her Crown, Scepter, and Rod, two Biſhops ſuſtaining her; and for her there ſhall be made on the left ſide of the Altar a Folding-ſtool.</p>
+               <p>She ſhall ſit while the King be required for the keeping of the Cuſtoms, <hi>&amp;c.</hi> and that done, while <hi>Veni Creator</hi> is ſinging, and all the while the King is Anointing.</p>
+               <div type="prayer">
+                  <head>The Arch-Biſhop entring the Weſt Door of the Abby, ſaith this Prayer.</head>
+                  <p>O Almighty and everlaſting God, the Fountain and Well-ſpring of all goodneſs, which doſt not reject the frailty of the Woman, but rather doſt vouchſafe to al<g ref="char:EOLhyphen"/>low and chooſe it, and by chooſing the weak things of the World, doſt confound thoſe things that are ſtrong; which didſt ſometime cauſe thy People to Triumph over a moſt cruel Enemy, by the Hand of <hi>Judith</hi> a Woman; give ear, we beſeech thee, to our moſt Humble Prayers, and multiply thy Bleſſings upon this thy Servant, whom in all Humble Devotion we do Conſecrate our <hi>Queen.</hi> Defend her always with thy Mighty Right Hand, and with the Buckler of thy favour, protect her on every ſide, that ſhe may be able to overcome, and triumph over all her Enemies, both bodily and ghoſtly, and that with <hi>Sarah</hi> and <hi>Rebecca, Leah</hi> and <hi>Rachel,</hi> and other Bleſſed and Honourable Women, ſhe may multiply and rejoyce in the Fruit of her Womb, to the Honour of the whole Kingdom, and the good Government of the Holy Church of God, through Chriſt our Lord, who vouchſafed to be born of a moſt pure Virgin, that he might viſit and Redeem the World, who liveth and reigneth with thee, in unity of the Holy Ghoſt, through all Ages, World without end.</p>
+               </div>
+               <div type="blessing_and_anointing">
+                  <head>Another Bleſſing of the <hi>Queen</hi> before the Nobles, to be ſaid at the Altar before ſhe be Anointed.</head>
+                  <p>GOD which onely haſt Immortality, and dwelleſt in Light which cannot be ap<g ref="char:EOLhyphen"/>proached, whoſe Providence is never deceived, which haſt made all things that are to come, and calleſt thoſe things that are not, as the things that are; which caſteſt down the Proud from their Seat, and doſt exalt the Humble and Meek, we humbly beſeech thy unſpeakable Mercy, that as for the good of the Peo<g ref="char:EOLhyphen"/>ple of the <hi>Jews,</hi> thou didſt deliver Queen <hi>Eſther</hi> from Captivity, and didſt bring her to the Bed of King <hi>Ahaſuerus,</hi> and the Society of his Kingdom; ſo for the good of thy Chriſtian Flock, thou wilt of thy Mercy by our Miniſtry, advance this thy Servant to the moſt High and Royal company of our King, that ſhe continuing always in the chaſtity of Princely Wedlock, ſhe may obtain the Crown that is next unto Virginity,
+<pb n="14" facs="tcp:97508:8"/>and may in all things, and above all things, ſtudy always to pleaſe thee the living God, and by thy Holy Inſpiration to perform thoſe things that are acceptable unto thee, through Chriſt our Lord, <hi>Amen.</hi>
+                  </p>
+                  <p>Here the holy Oyl ſhall be poured upon the Crown of her Head in the manner of a Croſs.</p>
+                  <p>The <hi>Queen</hi> is to be Anointed two times; firſt, in the fore-part of her Head, the Biſhop ſaying theſe words;</p>
+                  <p>In the name of the Father, the Son, and the Holy Ghoſt, let the anointing of this Oyl increaſe thy Honour, and eſtabliſh thee for ever and ever.</p>
+                  <p>Secondly, on her Breaſt, ſaying the ſame words;</p>
+                  <p>In the name of the Father, the Son, and the Holy Ghoſt, let the anointing of this Oyl increaſe thy Honour, and eſtabliſh thee for ever and ever.</p>
+               </div>
+               <div type="section">
+                  <head>After the Anointing, this Prayer is to be ſaid:</head>
+                  <p>O Almighty and everlaſting God, we beſeech thee of thy Goodneſs, pour out the ſpirit of thine abundant Bleſſing upon this thy Servant, that as by the Impoſi<g ref="char:EOLhyphen"/>tion of our Hands, ſhe is this day Crowned <hi>Queen,</hi> ſo ſhe may by thy ſanctification, continue always thy choſen and worthy Servant <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> ſhe may never hereafter fall from thy Grace, through Chriſt our Lord.</p>
+                  <p>Here the Ring muſt be given her, and put on the Fore-finger of her Right Hand, the Biſhop ſaying,</p>
+                  <p>Receive this Ring, the Seal of a ſincere Faith, that you may avoid all infection of Hereſie, and by the power of God compel Barbarous Nations, and bring them to the knowledge of the Truth.</p>
+               </div>
+               <div type="prayer">
+                  <head>This Prayer muſt follow.</head>
+                  <p>GOD, to whom belongeth all Power and Dignity, grant, we beſeech thee, to this thy Servant, by the ſign of Chriſtian Faith, proſperous ſucceſs in this her Ho<g ref="char:EOLhyphen"/>nour, and that ſhe may continue firm in the ſame, and endeavour always to pleaſe thee, through Chriſt our Lord.</p>
+               </div>
+               <div type="blessing">
+                  <head>Then the Bleſſing of the Crown.</head>
+                  <p>O God, the Crown of the Faithful, which doſt Crown their Heads with precious Stones, Bleſs and Sanctifie this Crown, that as the ſame is adorned with many precious Stones, ſo thy Servant that weareth the ſame, may of thy Grace be repleniſhed with the manifold gifts of all precious Virtues, through Chriſt our Lord. <hi>Amen.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Then the Crown is ſet upon her Head, the Biſhop ſaying,</head>
+                  <p>Receive the Crown of Glory, and the Honour of Joy, that you may ſhine in Righ<g ref="char:EOLhyphen"/>teouſneſs, and be Crowned with everlaſting gladneſs.</p>
+                  <p>This alſo,</p>
+                  <p>Seeing you are by our Miniſtry ſolemnly Conſecrated for our <hi>Queen,</hi> receive the Crown of Royal Excellency, which is placed upon your Head by the Epiſcopal hands of us, though unworthy; and as you are Crowned without, with Gold and Pearl, ſo labour to be beautified within, with the Gold of Wiſdom, and the Pearl of Virtue; that after this Life ended, you may with the juſt Virgins, decently meet the everlaſting Bridegroom, our Lord Jeſus Chriſt, and enter the Kingly Gate of the Heavenly Court, by his help, who with the Father, and the Holy Ghoſt, liveth and reigneth for ever and ever. <hi>Amen.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Then the Arch-Biſhop putteth the Scepter in her Right Hand, and a Rod of Gold in her Left Hand, ſaying,</head>
+                  <p>O Lord, the Fountain of all good things, and the giver of all perfection, grant unto thy Servant, that ſhe may order aright the high Dignity ſhe hath obtained, and with good works eſtabliſh the glory thou haſt given her, through Chriſt our Lord. <hi>Amen.</hi>
+                  </p>
+                  <p>Then is the <hi>Queen</hi> carried back into the Throne by the two Biſhops.</p>
+                  <p>As ſhe paſſeth by the King, ſhe boweth to him.</p>
+                  <p>She is placed in her Throne, and thus continueth, until ſhe come down with the King, to Offer, and receive the Communion.</p>
+                  <p>The <hi>Queen</hi> goeth with the <hi>King</hi> into St. <hi>Edward</hi>'s Chappel, putteth off her Crown there at the Altar, before which Altar ſhe ſtayeth until the <hi>King</hi> hath made himſelf ready in the Traverſe.</p>
+                  <p>After they both put on their Crowns Imperial, and ſo go to the Palace.</p>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="15" facs="tcp:97508:8" rendition="simple:additions"/>
+               <head>The FORM of King CHARLES the I. his CO<g ref="char:EOLhyphen"/>RONATION in <hi>Scotland, June</hi> 11th. 1633. Written with Mr. <hi>Dell</hi>'s own Hand, Secretary to the Late Arch-biſhop of <hi>Canterbury</hi> Dr. LAUD.</head>
+               <head type="sub">The Form of Coronation, and Rites to be uſed therein; collected from other the like Solemni<g ref="char:EOLhyphen"/>ties uſed in this Kingdom.</head>
+               <p>LEaving the choice of the Place and Church to His Majeſties own appointment, whereſoever the Coronation ſhall be done,</p>
+               <p>A Stage muſt be ſet up made ſquare and faſtned to four Pillars of the Church, railed about, and the Rails and Stage overſpread and covered with Carpets and Tape<g ref="char:EOLhyphen"/>ſtry.</p>
+               <p>The Stage being made of ſome convenient height and breadth, muſt have ſome Steps for aſcent on the Weſt part, about the midſt thereof, and as many for deſcent to the Altar or Table, which is to be placed on the Eaſt.</p>
+               <p>Upon the Stage another little Scaffold muſt be erected of two foot high, with two ſteps to aſcend; on which the Throne of State muſt be placed, and adorned as is meet.</p>
+               <p>A Chair of State muſt alſo be ſet on the Stage, on the right hand of the little Scaffold, <hi>with a Fald-ſtool</hi> and Cuſhions, for His Majeſty to do his Devotion.</p>
+               <p>A little Traverſe is to be made on the South ſide of the Altar or Table, for the King to repoſe and diſrobe himſelf.</p>
+               <p>Round about on the right and left hand of the Stage, there muſt be Scaffolds for Noblemen, Barons, Knights, Gentlemen of the Chamber, and others to reſt and be<g ref="char:EOLhyphen"/>hold.</p>
+               <p>Within the compaſs of the Altar or Table a Pulpit muſt be ſet for Sermon.</p>
+               <p>Over againſt it a Chair of State for his Majeſty, <hi>with a Fald-ſtool</hi> to kneel at.</p>
+               <p>On the Weſt ſide of the Pulpit a Foarm covered with Tapeſtry, for the Archbiſhop, and Biſhops ſerving at the Coronation.</p>
+               <p>The Evening before, the King would be at ſervice in Chappel, beſides his private Devotion, whereof the Biſhop of <hi>Dunblane,</hi> now Dean of the Chappel, muſt have care to remember His Majeſty.</p>
+               <p>The <hi>Regal,</hi> Crown, Scepter, and Sword, with the Great Seal of the Kingdom, and Spurs are to be delivered to ſuch Perſons as His Majeſty will appoint for carrying the ſame.</p>
+               <p>There is likewiſe to be provided a Red Silken Coat, having the Places for the An<g ref="char:EOLhyphen"/>ointing opened and looped, which His Majeſty is to wear next to his Shirt.</p>
+               <p>The Sacred Oyl is to be provided alſo, and put in ſome Silver Veſſel.</p>
+               <p>Cloath of ſome colour, red or blew, muſt be prepared and ſpread on the Ground from the Palace Hall dore, to the Stage in the Church, for His Majeſty to walk upon all the way, which Way muſt be railed on every ſide. This muſt be done in the Morning of the Coronation by ſome Nobleman that His Majeſty will make Almo<g ref="char:EOLhyphen"/>ner for that day. And this concerning the preparation.</p>
+               <div type="section">
+                  <head>The Morning of the Coronation.</head>
+                  <p>The Biſhops, Noblemen, and Commiſſioners of Burroughs to the number of ſix, are at that Morning to come unto the Preſence. The Conſtable and Marſhal (who are to carry their Battons in their hands all that day) having brought the King from his Bed Chamber to the Preſence, and after he is placed in his Chair, they all ma<g ref="char:EOLhyphen"/>king the Reverence that becomes; Some one of the Church, or Noblemen ſpeaks to this purpoſe.</p>
+                  <pb n="16" facs="tcp:97508:9"/>
+                  <p>Sir, the Eſtates of this your native and ancient Kingdom, calling to mind the great happineſs they enjoyed under the Government of your Majeſties Father of bleſ<g ref="char:EOLhyphen"/>ſed memory, and acknowledging your Highneſs to be the rightful Heir of this Crown by a long and lawful deſcent, do beſeech your Majeſty to receive them into your Highneſs protection, to govern them by the Laws of the Kingdom, and defend them, their Rights and Liberties by your Royal Power: Offering their Service in moſt humble manner to your Majeſty, with their Vows to beſtow Land, Life, and what elſe is in their power, for the ſafety of your Majeſties Sacred Perſon, and main<g ref="char:EOLhyphen"/>tenance of your Crown, which they intreat your Majeſty to accept, and pray Al<g ref="char:EOLhyphen"/>mighty God that you may happily, and for many years enjoy the ſame.</p>
+               </div>
+               <div type="section">
+                  <head>The King Anſwers.</head>
+                  <p>I do eſteem your affections more than the Crowns of many Kingdoms, and will by Gods aſſiſtance beſtow my life for your defence, wiſhing to live no longer than I may ſee this Kingdom flouriſh in all happineſs.</p>
+                  <p>Then kiſſing his Majeſties hands, they prepare all to go in their ranks as they are appointed, towards the Church.</p>
+                  <p>The Lyon King of Arms having an open Crown upon his Head, carries in his hand the Veſſel containing the ſacred Oyl. Two of his Brethren walk on either of his hands one. The Trumpets ſound, and ſo they march.</p>
+               </div>
+               <div type="section">
+                  <head>The Receiving of the King into the Church.</head>
+                  <p>THe Archbiſhop and Biſhops, with the Muſitians of the Chappel are to meet the King at the Entry in Proceſſion-wiſe.</p>
+                  <p>The King is received under a Canopy, ſupported by four Barons. Two Biſhops walk, one on His Majeſties one hand, and another upon the other. The Dean of the Chappel is always by to inform the King of the Rites of the Solemnity, as need ſhall be.</p>
+                  <p>The King is received with an <hi>Anthem</hi> into the Church, Behold oh Lord our Pro<g ref="char:EOLhyphen"/>tector, and look upon the face of thine Anointed, becauſe one day in thy Court, is better than a thouſand &amp;c. <hi>Quam dilecta, &amp;c.</hi>
+                  </p>
+                  <p>The King paſſing up the Church, goeth to the Stage, and repoſeth himſelf a little.</p>
+                  <p>The Regal, Crown, Scepter, Sword, Great Seal, and Spurs are laid down on a Taffel beſides the Altar or Table. The ſacred Oyl is delivered by Lyon King of Arms to the Dean of the Chappel, who brings it to the Archbiſhop, and he ſets the ſame on the Table.</p>
+                  <p>Then the King comes down from the Stage, and the Sermon begins.</p>
+                  <p>Which ended, the King aſcends again to the Stage, and ſits down in the Chair of State.</p>
+                  <p>Then the Arch-biſhop (the Marſhal of <hi>Scotland</hi> going before him) goeth to all the Quarters of the Stage, and ſpeaks to the People in theſe words;</p>
+                  <p>Sirs, I do preſent unto you King <hi>Charles,</hi> the rightful and undoubted Inheritor of the Crown and Dignity of this Realm. This day is by the Peers of the Kingdom, appointed for his Coronation. And are you not willing to have him for your King, and become ſubject unto him and his Commandments?</p>
+                  <p>The King ſtands up in this time, and as the Archbiſhop goes from one part of the Stage to another, turneth himſelf that he may be ſeen of the People.</p>
+                  <p>The People declare their willingneſs by their Acclamations and ſhouts, crying, God ſave King <hi>Charles;</hi> or let the King live.</p>
+                  <p>Then is ſung this Anthem. Let thine Hands be ſtrengthened, and thy right Hand be exalted, let Judgment be the preparation of thy Seat, Mercy and Truth go before thy face, <hi>Pſal.</hi> 89. Glory be to the Father, &amp;c.</p>
+                  <p>Whileſt the Anthem is ſinging the Archbiſhop goeth down to the Altar or Table, and reſteth there.</p>
+                  <p>Then is the <hi>King,</hi> ſupported by two Biſhops, brought to the Altar, and makes <hi>his Oblation;</hi> After which he kneels <hi>at his Fald-ſtool,</hi> and the Archbiſhop ſays this Prayer.</p>
+                  <p>O God who doſt viſit thoſe that are humble, and doſt comfort them by thine Holy Spirit, ſend down thy Grace upon this thy Servant King <hi>Charles,</hi> that by him we may feel thy preſence amongſt us, through Jeſus Chriſt our Lord. Amen.</p>
+                  <p>
+                     <hi rend="blackletterType">The Prayer ended the King ſits down in his Chair, and the Archbiſhop goeth unto him, and asketh, if he be willing to take the Oath appointed to be given at the Coronation of Kings? His Majeſty declaring his willingneſs, the Archbiſhop miniſtreth the Queſtions following.</hi>
+                  </p>
+                  <pb n="17" facs="tcp:97508:9"/>
+                  <p>Archbiſhop. <hi rend="blackletterType">Sir, will you promiſe to ſerve Almighty God, and as every good King in his Kingdom ought to do, maintain the Geſpel of Ieſus Chriſt in this your Dingdom, againſt all Atheiſm, Prophaneneſs, Hereſy, Schiſm, or Superſtition whatſoever?</hi>
+                  </p>
+                  <p>
+                     <hi>Rex.</hi> I promiſe faithfully ſo to do.</p>
+                  <p>Archbiſhop. <hi rend="blackletterType">Sir, will you promiſe to rule this People ſubject to you, and committed to your Charge, according to the Laws, Conſtitutions and Cuſtoms of this your King<g ref="char:EOLhyphen"/>dom, cauſing (aſmuch as in you lyeth) Iuſtice and Equity to be miniſtred without partia<g ref="char:EOLhyphen"/>lity? And to endeavour the Peace of the Church of Chriſt and all Chriſtian People?</hi>
+                  </p>
+                  <p>
+                     <hi>Rex.</hi> I grant, and promiſe ſo to do.</p>
+                  <p>Archbiſhop. <hi rend="blackletterType">Sir, will you likewiſe promiſe to preſerve the Rights and Priviledges of the Crown of</hi> Scotland?</p>
+                  <p>
+                     <hi>Rex,</hi> I promiſe ſo to do.</p>
+                  <p>Archbiſhop. <hi rend="blackletterType">Sir, We do alſo beſeech you to grant and preſerve unto us of the Clergy, and to the Churches committed to our Charge all Canonical Priviledges, and that you will defend and protect us, as every good King ought in his Kingdom to defend his Bi<g ref="char:EOLhyphen"/>ſhops, and the Churches that be under their Government?</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>The King anſwers,</head>
+                  <p>With a willing heart I grant the ſame, and promiſe to maintain you, and every one of you, with all the Churches committed to your charge, in your whole Rights and Priviledges, according to Law and Juſtice.</p>
+                  <p>Then the King riſing from his Chair, is led to the Altar, where, in ſight of all the People, laying his hands upon the Bible, he takes his Oath, and ſays, <hi>All the things which before I have promiſed, I ſhall obſerve and keep. So God me help,</hi> and by the Con<g ref="char:EOLhyphen"/>tents of this Book.</p>
+                  <p>After the Oath, the <hi>King</hi> returns to his Chair of State, and then is ſung the Hymn, <hi>Veni Creator,</hi> &amp;c.</p>
+                  <p>The Hymn finiſhed, the <hi>King</hi> kneeleth at his Fald-ſtool, and the <hi>Arch-biſhop</hi> ſays this Prayer.</p>
+                  <p>WE beſeech thee O Lord, holy Father, almighty and everlaſting God, for this thy Servant <hi>King Charles,</hi> that as at firſt thou broughteſt him into the World by thy Divine Providence, and in the flower of his Youth haſt preſerved him until this preſent time; ſo thou wilt evermore enrich him with the Gift of Piety, fill him with the Grace of Truth, and daily increaſe in him all Goodneſs, that he may happily enjoy the Seat of <hi>Supream Government,</hi> by the Gift of thy ſupernal Grace. And being de<g ref="char:EOLhyphen"/>fended from all his Enemies, by the Wall of thy Mercy, may proſperouſly govern the People committed to his Charge.</p>
+                  <p>After the Prayer, the Letany is ſung, and at the cloſe thereof this is to be added.</p>
+                  <p>That it may pleaſe thee to keep and ſtrengthen in the true Worſhiping of thee, in Righteouſneſs and Holineſs of Life, this thy Servant <hi>Charles</hi> our <hi>King</hi> and <hi>Governour,</hi> and ſo to the end.</p>
+                  <p>Then is ſaid this Prayer by one of the Biſhops that ſings the Letany.</p>
+                  <p>O Almighty and everlaſting God, Creator of all things, Ruler of <hi>Angels, King</hi> of <hi>Kings,</hi> and <hi>Lord</hi> of <hi>Lords,</hi> who madeſt thy ſervant <hi>Abraham</hi> Triumph over his Enemies; didſt give many Victories to <hi>Moſes</hi> and <hi>Joſhuah,</hi> the Governours of the People; didſt raiſe and exalt <hi>David</hi> thy Servant to be a <hi>King</hi> over them; didſt enrich <hi>Solomon</hi> his Son with the Gift of Wiſdom and Underſtanding, and bleſſedſt him with Peace and great Proſperi<g ref="char:EOLhyphen"/>ty. Give ear we beſeech thee unto our humble Prayers, and multiply thy Bleſſings upon this thy Servant, <hi>who is now to be conſecrated our King,</hi> that he being ſtrengthened with the Faith of <hi>Abraham,</hi> endued with the mildneſs of <hi>Moſes,</hi> armed with the Forti<g ref="char:EOLhyphen"/>tude of <hi>Joſhuah,</hi> exalted with the Humility of <hi>David,</hi> and beautified with the Wiſdom of <hi>Solomon,</hi> may pleaſe thee in all things, and ever walk uprightly in thy ways. De<g ref="char:EOLhyphen"/>fend him by thy mighty Arm, compaſs him with thy Protection, and give him to overcome all his and thine Enemies. Honour him before all the <hi>Kings</hi> of the Earth. Let him rule over Countries, and let Nations adore him. Eſtabliſh his Throne with Judgment and Equity, let Juſtice flouriſh in his days, and grant that He, underprop<g ref="char:EOLhyphen"/>ped by the due Obedience and hearty love of his People, may ſit on the Throne of his Fore-fathers for many years, and after this Life, may reign with thee in thine everlaſt<g ref="char:EOLhyphen"/>ing Kingdom, through Jeſus Chriſt our Lord and Saviour. <hi>Amen.</hi>
+                  </p>
+                  <p>The Letany thus ended, the Arch-biſhop beginneth to ſay aloud, Lift up your Hearts, and give thanks unto the Lord.</p>
+                  <p>
+                     <hi>Anſwer.</hi> By the Biſhops that ſing the Letany.</p>
+                  <pb n="18" facs="tcp:97508:10"/>
+                  <p>We lift them up unto the Lord, and to give thanks unto him it is meet and right.</p>
+               </div>
+               <div type="section">
+                  <head>Then the Arch-biſhop ſays,</head>
+                  <p>It is very meet and right, and our bounden Duty ſo to do, and at all times, and in all places to give thanks to thee, O Lord, Holy Father, Almighty and everlaſting God, the ſtrength of thy Choſen, and the exalter of the Humble, who in the beginning, by ſending the Floud of Waters, didſt puniſh the ſins of the World; and by a Dove bringing an Olive-branch in her mouth, didſt give a token of Reconcilement to the Earth; who afterwards didſt Conſecrate thy Servant <hi>Aaron</hi> a Prieſt, by the Anointing of Oyl, as alſo by the pouring out of the ſame, didſt make <hi>Kings,</hi> Prieſts, and Prophets to Govern thy People <hi>Iſrael,</hi> and by the voice of the Prophet <hi>David</hi> didſt fore-tell, that the Countenance of thy Church ſhould be made joyful with Oyl: We beſeech thee to bleſs and ſanctifie this thy Servant King <hi>Charles,</hi> that he may miniſter Peace unto this People, that he may attain to the perfection of Government in Counſel and Judgment, and that his Countenance may be always chearful and amiable to all his People, through Jeſus Chriſt our Lord. <hi>Amen.</hi>
+                  </p>
+                  <p>This Prayer ſaid, the <hi>King</hi> riſes from his Devotion, and repoſeth himſelf a while in the Chair of State, in which he is Crown'd.</p>
+                  <p>Afterwards he goeth to the Altar, and ſtandeth with his Back cloſe unto it, diſrobes himſelf of his upper Garment, his under Coat having the loops opened in the places where he is to be Anointed.</p>
+                  <p>Then he comes to the Pulpit-ſide, and ſitting in a Chair, a Canopy is held over his Head all the time of his Anointing.</p>
+                  <p>The Arch-Biſhop firſt <hi>Anoints</hi> his Hands in the Palms, ſaying, In the name of the Father, and of the Son, and of the Holy Ghoſt (which words he repeats in all the ſeveral Anointings) let theſe Hands be Anointed with Oyl, as <hi>Kings</hi> and <hi>Prophets</hi> have been Anointed: And as <hi>Samuel</hi> did Anoint <hi>David</hi> to be <hi>King,</hi> that thou mayeſt be bleſ<g ref="char:EOLhyphen"/>ſed and eſtabliſhed a <hi>King</hi> in this <hi>Kingdom</hi> over the People, whom the Lord thy God hath given thee to Rule and Govern: Which he vouchſafe to grant, who with the Fa<g ref="char:EOLhyphen"/>ther and the Holy Ghoſt is one, and reigns in Glory everlaſting. <hi>Amen.</hi>
+                  </p>
+                  <p>In this time the Singers do ſing the Anthem, <hi>Zadock</hi> the Prieſt, and <hi>Nathan</hi> the Pro<g ref="char:EOLhyphen"/>phet Anointed <hi>Solomon</hi> King, and all the People rejoyced, and ſaid, <hi>God ſave the King for ever.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Then the Arch-biſhop ſays this Prayer.</head>
+                  <p>LOok down, Almighty God, upon this thy Servant, our dread Soveraign, King <hi>Charles,</hi> with thy favourable countenance, and as thou didſt Bleſs <hi>Abraham, Iſaac,</hi> and <hi>Jacob,</hi> ſo vouchſafe, we beſeech thee, to water him plentifully with the Bleſſing of thy Grace; give unto him of the dew of Heaven, and of the fatneſs of the Earth, abundance of Corn, Wine, and Oyl, with all plenty of Fruits, and other good things. Grant him long to continue, and that in his time there may be Health and Peace in this <hi>Kingdom.</hi> Grant, O Almighty God, that he may be a mighty <hi>Protecton</hi> of this Countrey, a bountiful Comforter of Churches, and Holy Societies, the moſt Valiant of <hi>Kings,</hi> terrible to Rebels and Infidels, amiable to his Nobles, and to all his Faithful Subjects. Make his Royal Court to ſhine in Princely Dignity as a moſt clear Light<g ref="char:EOLhyphen"/>ning, far and wide in the Eyes of all Men. Finally, let him be Bleſſed with happy Children, that may Reign as <hi>Kings</hi> after him, and Rule this Kingdom by Succeſſion of all Ages, and after the glorious and happy days of preſent Life, give him of thy Mercy an everlaſting Kingdom with thee in the Heavens, through Jeſus Chriſt our Lord. <hi>Amen.</hi>
+                  </p>
+                  <p>The Prayer ended, the Arch-biſhop proceeds in the Anointing. 1. His Breaſt. 2. Be<g ref="char:EOLhyphen"/>twixt the Shoulders. 3. Both the points of the Shoulders. 5. Boughs of his Arms. 6. The Crown of His Majeſties Head.</p>
+                  <p>The Anointing done, the Dean of the Chappel cloſeth the loops again, which were opened.</p>
+                  <p>Then the Arch-Biſhop reads this Benediction. God the Son of God, Chriſt Jeſus our Lord, who was Anointed of his Father with Oyl of gladneſs above his fellows, pour down upon thy Head the Bleſſing of the Holy-Ghoſt, and make it enter into the inward parts of thy Heart, ſo that thou mayeſt Reign with him in the Heavens eternally. <hi>Amen.</hi>
+                  </p>
+                  <p>This pronounced, a ſhallow Quoif is put upon the <hi>Kings</hi> Head, becauſe of the Anointing.</p>
+                  <p>Then the <hi>King</hi> goeth to the Altar, and the <hi>Robe is put upon him,</hi> at which the Arch-Biſhop ſays this Prayer.</p>
+                  <pb n="19" facs="tcp:97508:10"/>
+                  <p>O <hi>God</hi> the <hi>King</hi> of <hi>Kings,</hi> and <hi>Lord</hi> of <hi>Lords,</hi> by whom <hi>Kings</hi> do reign, and Law<g ref="char:EOLhyphen"/>givers make good Laws, vouchſafe in thy Favour to bleſs this thy Servant <hi>Charles,</hi> in all his Government, that living godly and leading his People by the way of righteouſ<g ref="char:EOLhyphen"/>neſs, after a glorious courſe in this Life, he may attain that joy which hath no end, through our Lord. <hi>Amen.</hi>
+                  </p>
+                  <p>Then the Sword <hi>is brought</hi> to the Arch-biſhop, who laying it on the Altar, prays in this manner.</p>
+                  <p>HEar our Prayers, we beſeech thee O Lord, and vouchſafe by thy right hand of Majeſty, to bleſs and ſanctifie this Sword, wherewith thy Servant <hi>Charles</hi> deſires to be girt, by the ſame he may defend Churches, Widows, Orphans, and all the <hi>People</hi> of <hi>God,</hi> againſt the ſavage Cruelty of <hi>Pagans</hi> and <hi>Infidels;</hi> and that it may be a terror and fear to all thoſe that lye in wait to do miſchief, through Jeſus Chriſt our Lord. <hi>Amen.</hi>
+                  </p>
+                  <p>Then the Arch-biſhop takes up the Sword, and puts it in the <hi>Kings</hi> hand, ſaying.</p>
+                  <p>Receive this <hi>Kingly Sword</hi> for the Defence of the Faith of Chriſt, and Protection of his Holy Church; and remember him of whom the <hi>Pſalmiſt</hi> did prophecy, ſaying. Gird thy ſelf with thy Sword upon thy Thigh, O thou moſt mighty; and with thy Sword execute thou Equity and Juſtice. Purſue all Hereticks and Infidels, defend Widows and Orphans, reſtore the things that are gone to decay, maintain and con<g ref="char:EOLhyphen"/>firm the things that are reſtored, and in good order, deſtroy the growth of Iniquity, and take Puniſhment of all Injuſtice, that you may be glorious in the Triumph of Ver<g ref="char:EOLhyphen"/>tue, and reign with him whoſe Image you bear for ever and ever. <hi>Amen.</hi>
+                  </p>
+                  <p>The Sword is girt to the <hi>Kings</hi> ſide by one of the <hi>Peers thereto appointed.</hi>
+                  </p>
+                  <p>Then the <hi>King</hi> returns to the Chair wherein he was anointed, and hath the Spurs put on by the Lord Marſhal.</p>
+                  <p>After which the Archbiſhop taking the Crown in his hand, ſays this Prayer.</p>
+                  <p>O God the Crown of all the Faithful, who doſt crown their Heads with precious Stones that truſt in thee, bleſs and ſanctifie this Crown, that as the ſame is adorn<g ref="char:EOLhyphen"/>ed with many precious Stones, ſo this thy Servant, that wears the ſame, may be re<g ref="char:EOLhyphen"/>pleniſhed of thy Grace with the manifold Gifts of all precious Virtues, through Chriſt our Lord. <hi>Amen.</hi>
+                  </p>
+                  <p>Then the Arch-biſhop Crowneth the <hi>King,</hi> ſaying. God crown thee with a Crown of Glory and Righteouſneſs, with the Honour and Vertue of Fortitude, that by a right Faith, and manifold fruits of good works, you may obtain the Crown of an everlaſting Kingdom, by the Gift of him whoſe Kingdom endureth for ever. <hi>Amen.</hi>
+                  </p>
+                  <p>Then the King goes to the Stage, and ſits in the Chair of State, which is placed by the Throne.</p>
+                  <p>Then the Lyon, by direction of the Marſhal calls the Nobles, who ſet their hands to the Crown, and ſay every man theſe words. So God not help me, as I ſhall ſup<g ref="char:EOLhyphen"/>port thee. And when they have done, they all hold up ther hands, and ſwear to be loyal and true Subjects.</p>
+                  <p>The Marſhal having in his hand the obligatory Oath of the People, goeth to the four corners of the Stage, and reads the ſame to the Lyon, who cries it down to the People, and they all hold up their hands and ſay. <hi>Amen.</hi>
+                  </p>
+                  <p>The Oath of the People is this. <hi rend="blackletterType">We ſwear, and by the holding up of our hands do promiſe all Subjection and Loyalty to King</hi> Charles, <hi>our Dread Soveraign, and as we wiſh God to be merciful unto us, ſhall be to His Majeſty true and faithful, and be ever ready to beſtow our Lives, Lands, and what elſe God hath given us, for the Defence of His ſacred Perſon and Crown.</hi>
+                  </p>
+                  <p>When the King is crowned the Earls and Viſcounts put on their Crowns, and the Lyon his. The other Barons and Lords continue bare and uncovered.</p>
+               </div>
+               <div type="section">
+                  <head>Then is this Anthem ſung.</head>
+                  <p>BE ſtrong and of good Courage, and obſerve the Commandments of the Lord, to walk in his ways, and keep his Ceremonies, Precepts, Teſtimonies and Judg<g ref="char:EOLhyphen"/>ments. And Almighty God ſtrengthen and proſper thee whereſoever thou goeſt. The Lord is my Ruler, and therefore I ſhall want nothing. The King ſhall rejoyce in thy ſtrength O Lord, exceeding glad ſhall he be of thy Salvation. For thou haſt granted him his hearts deſire, and haſt not denied him the Requeſt of his Lips, for thou haſt prevented him with Bleſſings of goodneſs, and haſt ſet a Crown of pure Gold upon his Head.</p>
+                  <p>After this, the King goes down again, looſes his Sword wherewith he was girt, and
+<pb n="20" facs="tcp:97508:11"/>offers it, laying the ſame upon the Altar, which one of <hi>the Chief</hi> Nobles <hi>redeems with an Offering,</hi> and then draws it forth, and carries the ſame naked before the King.</p>
+                  <p>Then the Arch-biſhop takes the Scepter, and delivers it into the Kings right hand, with theſe words.</p>
+                  <p>Receive the Scepter, the Sign of Royal Power, the Rod of the Kingdom, the Rod of Vertue, that thou mayſt govern thy ſelf aright, defend the holy Church, and all the Chriſtian People committed by God to thy Charge, puniſhing the Wicked, and protecting the Juſt.</p>
+               </div>
+               <div type="section">
+                  <head>And then he ſaith this Prayer.</head>
+                  <p>O Lord, the fountain of all good things, and the Author of all good proceedings, grant we beſeech thee, to this thy Servant, that he may rightly uſe the Dignity which he hath by Inheritance; vouchſafe to confirm the Honour which thou haſt gi<g ref="char:EOLhyphen"/>ven him before all Kings, and enrich him with all Benedictions. Eſtabliſh his Throne, viſit him with increaſe of Children, let Juſtice ſpring up in his days, and his Soul be filled with Joy and gladneſs, till he be tranſlated to thine everlaſting Kingdom. <hi>Amen.</hi>
+                  </p>
+                  <p>After this, the Arch-biſhop bleſſeth the <hi>King,</hi> ſaying. The Lord bleſs thee and keep thee, and as he hath made thee <hi>King</hi> over his People, ſo he ſtill may proſper thee in this world, and in the world to come make Thee partaker of his eternal Felicity. <hi>Amen.</hi>
+                  </p>
+                  <p>The <hi>King</hi> then kiſſeth the Arch-biſhop and Biſhops aſſiſtant. After that, the <hi>King</hi> aſcendeth the Stage attended by the Nobles, and the Singers ſing <hi>Te Deum lauda<g ref="char:EOLhyphen"/>mus,</hi> &amp;c.</p>
+                  <p>Which ended, the Arch-biſhop enthrones the <hi>King,</hi> ſaying. Stand and hold faſt from henceforth the Place whereof you are the righteous and lawful Heir, by a long and lineal Succeſſion of your Fore-fathers, which is now delivered unto you, by the Authority of Almighty God, and by the hands of us, the Biſhops and Servants of God; and as you ſee the Clergy come more near to the Altar than others, ſo where it is convenient, you will remember to give them that Honour and Reſpect which is due to their Places, that the Mediator of God and Man, may eſtabliſh you in this Kingly Throne, and that with him you may reign and live for ever.</p>
+                  <p>Then goeth the Chancellor to the four Corners of the Stage, and proclaims his Ma<g ref="char:EOLhyphen"/>jeſties Pardon, with offer of the ſame under the Great Seal of <hi>Scotland,</hi> to all who ſhall require it. Upon which the People make their Acclamations, crying, <hi>God ſave the King.</hi>
+                  </p>
+                  <p>This done, the Arch-biſhop and Biſhops kneel down and make their Homage, their hands being betwixt the <hi>Kings</hi> hands, and theſe words are read unto them.</p>
+                  <p>J. A. B. <hi rend="blackletterType">ſhall be faithful and true, and Faith and Truth bear unto you our Soveraign Lord, and your Heirs, Kings of</hi> Scotland, <hi rend="blackletterType">and I ſhall do, and truly acknowledge the Service of the Lands, which I ſhall claim to hold of you in the right of the Church, as God help me.</hi>
+                  </p>
+                  <p>And they ſhall kiſs the <hi>Kings</hi> left Cheek. After them, the Temporal Lords in like manner kneeling and holding their hands betwixt the <hi>Kings</hi> hands, have theſe words read unto them.</p>
+                  <p>J. A. B. <hi rend="blackletterType">become your Liege Man, and Truth and Faith I ſhall bear unto you, live and die againſt all manner of Folks whomſoever, in your Service. So God me help.</hi>
+                  </p>
+                  <p>They kiſs likewiſe the <hi>Kings</hi> left Cheek. The King giveth the Scepter to ſuch as it ſhall pleaſe his Majeſty for carrying the ſame, and goeth down to the Chair of Eſtate over againſt the Pulpit.</p>
+                  <p>And the Arch-biſhop going to the Altar or Table, beginneth the Communion.</p>
+                  <p>The Communion ended, and Bleſſing given, the <hi>King</hi> with the Crown on his head, and Scepter in his hand, returns with the whole Train in moſt ſolemn manner to his Pallace.</p>
+                  <p>The Trumpets ſound, the Cannons ſhoot, and other ſmall Shot are diſcharged. Sil<g ref="char:EOLhyphen"/>ver and Gold Pieces coined for that purpoſe are caſt among the People.</p>
+                  <p>And then the <hi>King</hi> goeth to his Feaſt, which is ordered as his Majeſty ſhall give di<g ref="char:EOLhyphen"/>rection.</p>
+                  <p>
+                     <hi>God ſave the KING.</hi>
+                  </p>
+                  <trailer>FINIS.</trailer>
+                  <pb facs="tcp:97508:11" rendition="simple:additions"/>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
